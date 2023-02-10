@@ -14,4 +14,4 @@ Usage
 
 Note
 
-For a fully automated experience, upgrade to the paid version of Rewards VPS.
+For a fully automated experience, upgrade to the paid version of Rewards_VPS.
